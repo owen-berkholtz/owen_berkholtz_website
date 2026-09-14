@@ -1,0 +1,41 @@
+
+.about-body {
+    background-color: #eee;
+    min-height: 100vh;
+    padding-left: 5%;
+    padding-right: 5%;
+    
+}
+.picture-and-about{
+    background-color: white;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+    display: flex;
+}
+
+.owen-castle{
+    width: 350px;
+    margin-right: 1rem;
+    height: 100%;
+}
+
+.text-section{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.title-about{
+    color: rgb(255, 136, 0);
+    font-size: 50px;
+}
+.desc{
+    font-size: larger;
+}
+
+.about-link{
+    font-weight: bold;
+}
+.caption{
+    color: grey;
+    display: flex;
+    justify-content: center;
+}

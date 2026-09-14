@@ -1,0 +1,55 @@
+html, body{
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    
+}
+
+.home-body {
+    background-color: #eee;
+    min-height: 100vh;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.picture-and-intro{
+    background-color: white;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    display: flex;
+}
+
+.owen-picture{
+    width: 250px;
+    border-radius: 10%;
+    margin-left: 2rem;
+    height: 100%;
+}
+
+.text-section{
+    margin-left: 10%;
+    width: 100vw;
+    margin-left: 5%;
+    padding: 0;
+}
+.title{
+    font-size: 50px;
+    padding: 0px;
+    margin-bottom: 0;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.introduction{
+    margin-top: 1rem;
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 2rem;
+}
+.name{
+    color: rgb(255, 136, 0);
+}
+
+.pitch{
+    font-size: 25px;
+}
+

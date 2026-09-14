@@ -1,0 +1,59 @@
+.projects-body {
+    background-color: #eee;
+    min-height: 100vh;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.projects-list{
+    background-color: white;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.title-projects{
+    display: flex;
+    width: 100%;
+
+    justify-content: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    font-size: 40px;
+}
+
+.curved-underline{
+    position: relative;
+    display: flex;
+    width: 100%;
+
+}
+
+.curved-underline:after{
+    content: '';
+    position: absolute;
+    width: 15%;
+    border-top: solid 3px rgb(255, 136, 0);
+    bottom: 0;
+    left: 42%;
+    border-radius: 50%;
+    height: 25px;
+}
+
+.project-container{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 3rem;
+}
+
+.project-index{
+    font-size: 25px;
+    font-weight: bold;
+    color:rgb(255, 136, 0);
+}
+
+.project-name{
+    font-size: larger;
+    margin-top: 5px;
+
+}
+
+
